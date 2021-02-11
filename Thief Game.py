@@ -115,7 +115,7 @@ class items:
         print()
 
 class stats:
-  #using health as a death check & stamina as an event availability check
+  #using health as a death check & stamina as an event pass check
   global health
   global stamina
   class health_stat:
@@ -1244,7 +1244,3 @@ def game_main():
 
 
 start()
-
-#BEHOLD: MY MEDIOCRE INTELLECTUAL PROWESS & NEED FOR CONSISTENT AFFIRMATION!!!
-
-#seriously though, it's amazing what half a youtube tutorial, half a college course and google gets you.Hi Steve, before we start could I share a programming project I’ve been doing this week?
